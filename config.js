@@ -39,7 +39,7 @@ const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = 'Olá ${wame}, números fake não são permitidos nesse grupo, se você não for alguém mal e quiser estar no grupo pacificamente, por favor contate os administradores :)'
+const banmsgtype = 'Olá números fake não são permitidos nesse grupo, se você não for alguém mal e quiser estar no grupo pacificamente, por favor contate os administradores :)'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
