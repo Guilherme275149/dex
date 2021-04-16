@@ -17,7 +17,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nAo menu do Brizas-bot`
+    return `Seja bem-vindo ${numero}\n\nAo menu da 𝙀𝙡𝙞𝙯𝙖𝙗𝙚𝙩𝙝 `
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -28,7 +28,7 @@ const apikeyporn = 'api key do imgbb, crie sua conta e pegue a key'
 const cr = '𝙀𝙡𝙞𝙯𝙖𝙗𝙚𝙩𝙝 𝘽𝙊𝙏\n' 
 // texto do simbolo de verificado
 
-const prefix = '.' 
+const prefix = '!' 
 // prefixo
 
 const blockedmsg = ''
